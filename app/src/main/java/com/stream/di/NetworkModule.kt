@@ -21,7 +21,7 @@ import javax.inject.Singleton
 object NetworkModule {
 
     private const val BASE_URL = "https://api.pexels.com/v1/"
-    private const val API_KEY = "UpKWb2ecLvabsEn3isBKoMq0Vhs3JlKwmeyCddXi4CZsyRiXZWv052Wl" // Replace with your actual API key
+    private const val API_KEY = "YOUR_API_KEY" // Replace with your actual API key
 
     @Provides
     @Singleton

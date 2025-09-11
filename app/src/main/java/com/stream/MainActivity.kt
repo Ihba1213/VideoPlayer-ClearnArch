@@ -10,6 +10,7 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.ui.Modifier
 import dagger.hilt.android.AndroidEntryPoint
 import androidx.lifecycle.viewmodel.compose.viewModel
+import com.stream.MediaStreamingApp
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
